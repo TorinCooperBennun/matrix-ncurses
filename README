@@ -1,0 +1,10 @@
+little project to take my mind off things
+
+basically those green stream-like things you always see on the screens in the Matrix
+
+requires:
+* ncurses
+* cmake
+* gcc or clang
+
+currently only Linux-compatible.
